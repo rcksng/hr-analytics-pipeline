@@ -1,0 +1,171 @@
+[
+  {
+    "date": "2026-01-01",
+    "localName": "New Year's Day",
+    "name": "New Year's Day",
+    "countryCode": "GB",
+    "fixed": true,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2026-04-03",
+    "localName": "Good Friday",
+    "name": "Good Friday",
+    "countryCode": "GB",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2026-04-06",
+    "localName": "Easter Monday",
+    "name": "Easter Monday",
+    "countryCode": "GB",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "localName": "Early May Bank Holiday",
+    "name": "Early May Bank Holiday",
+    "countryCode": "GB",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2026-05-25",
+    "localName": "Spring Bank Holiday",
+    "name": "Spring Bank Holiday",
+    "countryCode": "GB",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2026-01-01",
+    "localName": "New Year's Day",
+    "name": "New Year's Day",
+    "countryCode": "US",
+    "fixed": true,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "localName": "Martin Luther King Jr. Day",
+    "name": "Martin Luther King, Jr. Day",
+    "countryCode": "US",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": 1983,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2026-02-16",
+    "localName": "Presidents' Day",
+    "name": "Washington's Birthday",
+    "countryCode": "US",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2026-05-25",
+    "localName": "Memorial Day",
+    "name": "Memorial Day",
+    "countryCode": "US",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2026-01-26",
+    "localName": "Republic Day",
+    "name": "Republic Day",
+    "countryCode": "IN",
+    "fixed": true,
+    "global": true,
+    "counties": null,
+    "launchYear": 1950,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2026-03-13",
+    "localName": "Holi",
+    "name": "Holi",
+    "countryCode": "IN",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2026-04-14",
+    "localName": "Dr. B. R. Ambedkar Jayanti",
+    "name": "Dr. B. R. Ambedkar Jayanti",
+    "countryCode": "IN",
+    "fixed": true,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "localName": "Labour Day",
+    "name": "Labour Day",
+    "countryCode": "IN",
+    "fixed": true,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  }
+]

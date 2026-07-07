@@ -1,0 +1,5 @@
+department_id,department_name,cost_center
+DPT01,Engineering,CC-100
+DPT02,Sales,CC-200
+DPT03,HR,CC-300
+DPT04,Finance,CC-400

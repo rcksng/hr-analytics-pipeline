@@ -1,0 +1,838 @@
+[
+  {
+    "employee_id": "EMP001",
+    "contact": {
+      "phone": {
+        "mobile": "(363)992-3321x4688",
+        "work": "969.493.5632",
+        "home": "001-651-281-7560"
+      },
+      "email": {
+        "personal": "iharris@example.org",
+        "work": "emp001@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "397 Michael Forge Apt. 792",
+      "line2": null,
+      "city": "North Daniel",
+      "state_or_province": "Hawaii",
+      "postal_code": "62593",
+      "country_code": "LA"
+    },
+    "emergency_contact": {
+      "full_name": "Angela Coleman",
+      "relationship": "Parent",
+      "contact": {
+        "phone": "824-590-6528",
+        "email": null
+      }
+    },
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "sms"
+      },
+      {
+        "key": "preferred_language",
+        "value": "en"
+      },
+      {
+        "key": "timezone",
+        "value": "Europe/London"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:44:30Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP002",
+    "contact": {
+      "phone": {
+        "mobile": "2374486257",
+        "work": "001-492-596-1112x4226",
+        "home": "+1-657-234-1521"
+      },
+      "email": {
+        "personal": "rogersnicholas@example.com",
+        "work": "emp002@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "6581 Nichole Landing Suite 734",
+      "line2": "Apt. 415",
+      "city": "Port Lisa",
+      "state_or_province": "Utah",
+      "postal_code": "93773",
+      "country_code": "HU"
+    },
+    "emergency_contact": {
+      "full_name": "Jeffrey Haley",
+      "relationship": "Spouse",
+      "contact": {
+        "phone": "664.818.4578x246",
+        "email": "justingregory@example.net"
+      }
+    },
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "none"
+      },
+      {
+        "key": "preferred_language",
+        "value": "de"
+      },
+      {
+        "key": "timezone",
+        "value": "Asia/Singapore"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:44:17Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP003",
+    "contact": {
+      "phone": {
+        "mobile": "+1-673-865-3505x432",
+        "work": "001-436-956-0188x3084",
+        "home": "546.278.8994"
+      },
+      "email": {
+        "personal": "drakecharles@example.org",
+        "work": "emp003@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "4589 Lee Courts",
+      "line2": "Suite 624",
+      "city": "Murphyberg",
+      "state_or_province": "New Hampshire",
+      "postal_code": "91548",
+      "country_code": "ME"
+    },
+    "emergency_contact": {
+      "full_name": "Justin Espinoza",
+      "relationship": "Sibling",
+      "contact": {
+        "phone": "(343)547-9627x972",
+        "email": "hmills@example.com"
+      }
+    },
+    "preferences": [],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:43:53Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP004",
+    "contact": {
+      "phone": {
+        "mobile": "850-698-4095",
+        "work": "(529)606-0058",
+        "home": "(670)663-3172"
+      },
+      "email": {
+        "personal": "chad38@example.org",
+        "work": "emp004@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "811 Mandy Drive Apt. 086",
+      "line2": null,
+      "city": "West Monica",
+      "state_or_province": "Virginia",
+      "postal_code": "30851",
+      "country_code": "VE"
+    },
+    "emergency_contact": {
+      "full_name": "Tracy Martin",
+      "relationship": "Friend",
+      "contact": {
+        "phone": "001-305-563-4212x78036",
+        "email": "mquinn@example.org"
+      }
+    },
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "push"
+      },
+      {
+        "key": "preferred_language",
+        "value": "en"
+      },
+      {
+        "key": "timezone",
+        "value": "Asia/Dubai"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:44:22Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP005",
+    "contact": {
+      "phone": {
+        "mobile": "(827)254-5909",
+        "work": "722-404-8441x7610",
+        "home": "+1-655-850-6493x820"
+      },
+      "email": {
+        "personal": "xhunt@example.org",
+        "work": "emp005@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "603 Deborah Estates",
+      "line2": null,
+      "city": "South Adamtown",
+      "state_or_province": "Illinois",
+      "postal_code": "17770",
+      "country_code": "EG"
+    },
+    "emergency_contact": {
+      "full_name": "Amy Beard",
+      "relationship": "Sibling",
+      "contact": {
+        "phone": "(396)420-0867",
+        "email": "matthewanderson@example.net"
+      }
+    },
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "push"
+      },
+      {
+        "key": "preferred_language",
+        "value": "ar"
+      },
+      {
+        "key": "timezone",
+        "value": "UTC"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:39:39Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP006",
+    "contact": {
+      "phone": {
+        "mobile": "423.697.3169x32273",
+        "work": "(888)881-3383",
+        "home": "281.734.5957x31006"
+      },
+      "email": {
+        "personal": "saraalvarado@example.org",
+        "work": "emp006@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "409 Gonzalez Lakes Apt. 256",
+      "line2": null,
+      "city": "Lake Kevin",
+      "state_or_province": "Kentucky",
+      "postal_code": "26468",
+      "country_code": "PG"
+    },
+    "emergency_contact": {
+      "full_name": "Tyler Kelly",
+      "relationship": "Spouse",
+      "contact": {
+        "phone": "(491)360-5563",
+        "email": "johnsonjason@example.com"
+      }
+    },
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "sms"
+      },
+      {
+        "key": "preferred_language",
+        "value": "ar"
+      },
+      {
+        "key": "timezone",
+        "value": "Asia/Singapore"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:42:50Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP007",
+    "contact": {
+      "phone": {
+        "mobile": "001-710-761-6157x68684",
+        "work": "348-631-0345",
+        "home": "399-233-7780x9416"
+      },
+      "email": {
+        "personal": "troy76@example.com",
+        "work": "emp007@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "814 Rowe Cliff",
+      "line2": null,
+      "city": "Shawnfort",
+      "state_or_province": "Michigan",
+      "postal_code": "78535",
+      "country_code": "BS"
+    },
+    "emergency_contact": null,
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "sms"
+      },
+      {
+        "key": "preferred_language",
+        "value": "de"
+      },
+      {
+        "key": "timezone",
+        "value": "Asia/Singapore"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:43:17Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP008",
+    "contact": {
+      "phone": {
+        "mobile": "2912263699",
+        "work": "453-631-0642",
+        "home": "(661)642-6611"
+      },
+      "email": {
+        "personal": "melinda24@example.net",
+        "work": "emp008@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "91476 Pamela Rapid",
+      "line2": "Suite 384",
+      "city": "Kingview",
+      "state_or_province": "South Dakota",
+      "postal_code": "24666",
+      "country_code": "PK"
+    },
+    "emergency_contact": {
+      "full_name": "Connor Dixon",
+      "relationship": "Parent",
+      "contact": {
+        "phone": "839.359.8138x62905",
+        "email": null
+      }
+    },
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "email"
+      },
+      {
+        "key": "preferred_language",
+        "value": "de"
+      },
+      {
+        "key": "timezone",
+        "value": "Asia/Singapore"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:39:10Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP009",
+    "contact": {
+      "phone": {
+        "mobile": "667-511-0313",
+        "work": "324-742-8319",
+        "home": "9347658074"
+      },
+      "email": {
+        "personal": "michaelwilliams@example.com",
+        "work": "emp009@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "89672 Grant Stream",
+      "line2": null,
+      "city": "Andrewshire",
+      "state_or_province": "Minnesota",
+      "postal_code": "20531",
+      "country_code": "CN"
+    },
+    "emergency_contact": {
+      "full_name": "Barry Flores",
+      "relationship": "Friend",
+      "contact": {
+        "phone": "+1-484-252-8518x40563",
+        "email": "courtneywells@example.com"
+      }
+    },
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "sms"
+      },
+      {
+        "key": "preferred_language",
+        "value": "fr"
+      },
+      {
+        "key": "timezone",
+        "value": "Asia/Dubai"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:44:19Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP010",
+    "contact": {
+      "phone": {
+        "mobile": "+1-465-396-4135",
+        "work": "610-856-5939x194",
+        "home": null
+      },
+      "email": {
+        "personal": "dennistanner@example.org",
+        "work": "emp010@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "088 Thomas Loop Apt. 446",
+      "line2": null,
+      "city": "Davisstad",
+      "state_or_province": "Alaska",
+      "postal_code": "64983",
+      "country_code": "GT"
+    },
+    "emergency_contact": {
+      "full_name": "Austin Hobbs",
+      "relationship": "Friend",
+      "contact": {
+        "phone": "780.227.1582",
+        "email": null
+      }
+    },
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "email"
+      },
+      {
+        "key": "preferred_language",
+        "value": "de"
+      },
+      {
+        "key": "timezone",
+        "value": "Asia/Singapore"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:39:30Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP011",
+    "contact": {
+      "phone": {
+        "mobile": "207.538.7703",
+        "work": "(262)628-7490",
+        "home": null
+      },
+      "email": {
+        "personal": "garrettglenda@example.net",
+        "work": "emp011@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "7249 Terry Drive Apt. 595",
+      "line2": null,
+      "city": "Lake Robert",
+      "state_or_province": "Utah",
+      "postal_code": "35096",
+      "country_code": "EE"
+    },
+    "emergency_contact": {
+      "full_name": "Karen Miller",
+      "relationship": "Parent",
+      "contact": {
+        "phone": "001-464-294-7082x043",
+        "email": null
+      }
+    },
+    "preferences": [],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:40:04Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP012",
+    "contact": {
+      "phone": {
+        "mobile": "744.456.5624",
+        "work": "7284774752",
+        "home": "001-890-786-8927x381"
+      },
+      "email": {
+        "personal": "vpatel@example.org",
+        "work": "emp012@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "33623 Chung Forks",
+      "line2": "Suite 120",
+      "city": "North Crystalfurt",
+      "state_or_province": "Indiana",
+      "postal_code": "96063",
+      "country_code": "IN"
+    },
+    "emergency_contact": {
+      "full_name": "Jonathan Blanchard",
+      "relationship": "Parent",
+      "contact": {
+        "phone": "+1-486-996-5429x2795",
+        "email": "dmarshall@example.net"
+      }
+    },
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "sms"
+      },
+      {
+        "key": "preferred_language",
+        "value": "ar"
+      },
+      {
+        "key": "timezone",
+        "value": "Asia/Singapore"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:42:13Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP013",
+    "contact": {
+      "phone": {
+        "mobile": "NOT-A-NUMBER",
+        "work": "306.465.0321x8680",
+        "home": null
+      },
+      "email": {
+        "personal": "denniswalker@example.com",
+        "work": "emp013@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "0030 Jeffrey Rapids",
+      "line2": null,
+      "city": "East Zachary",
+      "state_or_province": "Alabama",
+      "postal_code": "24605",
+      "country_code": "PL"
+    },
+    "emergency_contact": {
+      "full_name": "Harold Richardson",
+      "relationship": "Sibling",
+      "contact": {
+        "phone": "434-907-1290x36455",
+        "email": null
+      }
+    },
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "sms"
+      },
+      {
+        "key": "preferred_language",
+        "value": "zh"
+      },
+      {
+        "key": "timezone",
+        "value": "America/New_York"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:41:07Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP014",
+    "contact": {
+      "phone": {
+        "mobile": "877-707-0489x1510",
+        "work": "001-402-555-5954x546",
+        "home": "+1-548-211-7113x15653"
+      },
+      "email": {
+        "personal": "angelapratt@example.com",
+        "work": "emp014@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "055 Nicholas Parks",
+      "line2": "Apt. 290",
+      "city": "East Antoniostad",
+      "state_or_province": "New Mexico",
+      "postal_code": "19502",
+      "country_code": "BH"
+    },
+    "emergency_contact": {
+      "full_name": "Matthew Lane",
+      "relationship": "Sibling",
+      "contact": {
+        "phone": "353.403.4619",
+        "email": "walshgina@example.com"
+      }
+    },
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "sms"
+      },
+      {
+        "key": "preferred_language",
+        "value": "fr"
+      },
+      {
+        "key": "timezone",
+        "value": "UTC"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:42:03Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP015",
+    "contact": {
+      "phone": {
+        "mobile": "(529)633-6874x637",
+        "work": "203.357.3180x20346",
+        "home": "220-631-1111"
+      },
+      "email": {
+        "personal": "kimberly27@example.com",
+        "work": "emp015@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "2738 Flores Club",
+      "line2": null,
+      "city": "Grantport",
+      "state_or_province": "Texas",
+      "postal_code": "40774",
+      "country_code": "US"
+    },
+    "emergency_contact": {
+      "full_name": "Daniel Gonzalez",
+      "relationship": "Spouse",
+      "contact": {
+        "phone": "985.339.7148x63102",
+        "email": "jamesjackson@example.com"
+      }
+    },
+    "preferences": [],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:44:10Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP016",
+    "contact": {
+      "phone": {
+        "mobile": "001-941-933-8809",
+        "work": "+1-549-348-7287x857",
+        "home": null
+      },
+      "email": {
+        "personal": "carlosorr@example.org",
+        "work": null
+      }
+    },
+    "address": {
+      "line1": "382 Hodges Highway",
+      "line2": "Apt. 462",
+      "city": "Natalieton",
+      "state_or_province": "California",
+      "postal_code": "79185",
+      "country_code": "FJ"
+    },
+    "emergency_contact": {
+      "full_name": "Nicole Ward",
+      "relationship": "Sibling",
+      "contact": {
+        "phone": "(575)697-2553",
+        "email": null
+      }
+    },
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "none"
+      },
+      {
+        "key": "preferred_language",
+        "value": "fr"
+      },
+      {
+        "key": "timezone",
+        "value": "Asia/Singapore"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:40:47Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP017",
+    "contact": {
+      "phone": {
+        "mobile": "+1-589-617-9274x472",
+        "work": "001-308-474-0506x29848",
+        "home": "(389)892-8532x0817"
+      },
+      "email": {
+        "personal": "elizabeth69@example.net",
+        "work": "emp017@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "91799 Sanchez Islands Apt. 012",
+      "line2": "Apt. 493",
+      "city": "New Thomas",
+      "state_or_province": "Arizona",
+      "postal_code": "41003",
+      "country_code": "GM"
+    },
+    "emergency_contact": {
+      "full_name": "Michael Combs",
+      "relationship": "Spouse",
+      "contact": {
+        "phone": "001-502-839-1162x8692",
+        "email": null
+      }
+    },
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "email"
+      },
+      {
+        "key": "preferred_language",
+        "value": "fr"
+      },
+      {
+        "key": "timezone",
+        "value": "Asia/Singapore"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:44:28Z",
+      "schema_version": "2.1"
+    }
+  },
+  {
+    "employee_id": "EMP018",
+    "contact": {
+      "phone": {
+        "mobile": "311-857-2381",
+        "work": "784.473.8596",
+        "home": "223.526.7745x651"
+      },
+      "email": {
+        "personal": "imeyer@example.org",
+        "work": "emp018@hrpipeline-corp.com"
+      }
+    },
+    "address": {
+      "line1": "680 Sharon Mills Suite 703",
+      "line2": null,
+      "city": "North John",
+      "state_or_province": "Tennessee",
+      "postal_code": "51409",
+      "country_code": "DO"
+    },
+    "emergency_contact": {
+      "full_name": "Danny Reyes",
+      "relationship": "Parent",
+      "contact": {
+        "phone": "001-751-799-7036x8620",
+        "email": "josephmartinez@example.com"
+      }
+    },
+    "preferences": [
+      {
+        "key": "notification_channel",
+        "value": "push"
+      },
+      {
+        "key": "preferred_language",
+        "value": "en"
+      },
+      {
+        "key": "timezone",
+        "value": "Europe/London"
+      }
+    ],
+    "metadata": {
+      "source_system": "HRIS-ContactAPI-v2",
+      "last_updated": "2026-07-07T07:40:53Z",
+      "schema_version": "2.1"
+    }
+  }
+]
